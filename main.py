@@ -7,3 +7,4 @@ def by():
 
 
 print(hello())
+print(by())
