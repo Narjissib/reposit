@@ -1,8 +1,9 @@
 def hello():
-  print("HI GM")
+    print("HI GM")
+
 
 def by():
-  print("Byyyyy")
+    print("Byyyyy")
 
-  
+
 print(hello())
